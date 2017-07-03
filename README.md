@@ -28,3 +28,7 @@ Como yo dije un día
 Asi se pone **negrita**
 
 o así __negrita__
+
+Y así *cursiva*
+
+y tambien _asi_
