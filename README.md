@@ -56,4 +56,6 @@ ahora quiero que sea de verdad un \*asterisco
 
 --------
 _______
-.....
+
+
+Enlace a [Mi blog] (http://www.psicobyte.com)
