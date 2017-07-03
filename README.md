@@ -32,3 +32,5 @@ o así __negrita__
 Y así *cursiva*
 
 y tambien _asi_
+
+asi se 'tachado'
