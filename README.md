@@ -24,3 +24,7 @@ Como yo dije un día
 > nunca es tarde si la dicha es buena
 
 > ea ole ole
+
+Asi se pone **negrita**
+
+o así __negrita__
