@@ -6,7 +6,7 @@ aqui pongo otro párrafo
 ## hola
 
 
-Los pparafo se separan con lineas en blanco
+Los parrafos se separan con lineas en blanco
 
 asi
 
