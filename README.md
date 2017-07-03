@@ -36,3 +36,12 @@ y tambien _asi_
 asi se ~~tachado~~
 
 ahora quiero que sea de verdad un \*asterisco
+
+1. primer elemento
+   1. subelemento
+      1. sub-sub elemento
+   1. otro subelemnto
+1. segundo elemento
+1. tercero
+1. cuarto
+  
