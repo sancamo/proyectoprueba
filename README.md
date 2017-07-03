@@ -61,3 +61,7 @@ _______
 Enlace a [Mi blog](http://www.psicobyte.com)
 
 https://www.google.es
+
+Otra forma [enlance][1]
+
+[1] : //http://www.psicobyte.com
