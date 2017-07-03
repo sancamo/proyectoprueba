@@ -52,3 +52,8 @@ ahora quiero que sea de verdad un \*asterisco
 * segundo
 * tercero
 * cuarto
+
+
+--------
+_______
+.....
