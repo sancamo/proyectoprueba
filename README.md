@@ -33,4 +33,6 @@ Y así *cursiva*
 
 y tambien _asi_
 
-asi se 'tachado'
+asi se ~~tachado~~
+
+ahora quiero que sea de verdad un \*asterisco\
