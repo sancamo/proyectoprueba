@@ -45,3 +45,10 @@ ahora quiero que sea de verdad un \*asterisco
 1. tercero
 1. cuarto
   
+* primer elemento
+  * subelemento
+    * sub sub 
+  * sub 
+* segundo
+* tercero
+* cuarto
