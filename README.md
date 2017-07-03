@@ -58,6 +58,6 @@ ahora quiero que sea de verdad un \*asterisco
 _______
 
 
-Enlace a [Mi blog] (http://www.psicobyte.com)
+Enlace a [Mi blog](http://www.psicobyte.com)
 
 https://www.google.es
