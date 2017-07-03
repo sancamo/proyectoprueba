@@ -64,3 +64,8 @@ https://www.google.es
 
 
 ![gato](https://www.anipedia.net/imagenes/donde-viven-los-gatos.jpg "mi gato")
+
+|Cabecera 1 | Cabecera 2| cABECERA 3|
+|-----------| ---------:|:----------|
+| CELDA 1 A | CELDA 2 A | CELDA 3A  |
+| CELDA 1 B | CELDA 2 B | CELDA 3 B |
