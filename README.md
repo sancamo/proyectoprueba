@@ -35,4 +35,4 @@ y tambien _asi_
 
 asi se ~~tachado~~
 
-ahora quiero que sea de verdad un \*asterisco\
+ahora quiero que sea de verdad un \*asterisco
