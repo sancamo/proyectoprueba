@@ -62,6 +62,5 @@ Enlace a [Mi blog](http://www.psicobyte.com)
 
 https://www.google.es
 
-Otra forma [enlance][1]
 
 ![gato](https://www.anipedia.net/imagenes/donde-viven-los-gatos.jpg)
